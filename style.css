@@ -1,0 +1,50 @@
+body{
+    background-color: #EAEAEA;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header h1{
+  padding: 10px;
+  text-align: center;
+  background-color: #fff;
+  margin: 0;
+}
+
+p{
+  font-size: 14px;
+  text-align: justify;
+}
+
+h3{
+  font-weight: 900;
+}
+
+img{
+  width: 100%;
+  margin: 0;
+}
+
+.border{
+  padding: 10px;
+}
+
+.title *{
+  margin: 0;
+}
+
+.title p{
+  padding-top: 5px;
+  color: #D7D7D7;
+}
+.box{
+  background: #fff;
+  width: 50%;
+  margin: 20px auto;
+}
+
+.title{
+
+  display: flex;
+  justify-content: space-between;
+}
